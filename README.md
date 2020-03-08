@@ -1,4 +1,4 @@
-# ghostly.live---UHC-RUN
+# ghostly.live - UHC-RUN
 *Depends on shitty ass @joeleoli forked plugins (Zoot and SpigotX)*
 
 # Dependencies
