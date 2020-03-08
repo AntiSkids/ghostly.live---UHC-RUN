@@ -1,0 +1,7 @@
+main: live.ghostly.uhcrun.UHCRun
+version: 1.0
+name: UHCRun
+author: EnzoL_
+depend:
+  - Nucleus
+  - ProtocolLib

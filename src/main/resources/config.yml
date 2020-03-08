@@ -1,0 +1,8 @@
+MONGO:
+  HOST: 127.0.0.1
+  PORT: 27017
+  DATABASE: 'uhcrun-1'
+  AUTHENTICATION:
+    ENABLED: false
+    USERNAME: ''
+    PASSWORD: ''
